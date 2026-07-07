@@ -136,6 +136,8 @@ Todo o projeto está contido em um único arquivo HTML.
 
 # 🚀 Como executar
 
+[TESTAR AGORA](https://carlosguilherme444.github.io/JuroCode/index.html)
+
 Basta abrir o arquivo:
 
 ```
