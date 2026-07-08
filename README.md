@@ -126,7 +126,7 @@ amiga juro,
 ```
 /
 │
-├── juro_code.html
+├── index.html
 └── README.md
 ```
 
@@ -141,7 +141,7 @@ Todo o projeto está contido em um único arquivo HTML.
 Basta abrir o arquivo:
 
 ```
-juro_code.html
+index.html
 ```
 
 em qualquer navegador moderno.
